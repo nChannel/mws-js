@@ -6,7 +6,7 @@
   "version" : "0.1.1",
   "author" : "Eibbor Srenduas <r@eibbors.com> (http://eibbors,com)",
   "contributors" : [ ],
-  "main" : "./lib/mws",
+  "main" : "index.js",
   "directories" : {
     "lib": "./lib"
   },
